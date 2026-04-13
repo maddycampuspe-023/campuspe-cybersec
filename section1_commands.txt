@@ -1,0 +1,29 @@
+#1.list all files in the long human readable size
+ls -lah
+
+#2.find all the .txt files in the home directory 
+find ~-name "*.txst"
+
+#3.display last 20 lines of scan_results.txt    
+tail -n 20 scan_results.txt
+
+#4. count lines containing "OPEN"
+grep -c "OPEN" scan_results.txt
+
+#5.create directory structure
+mkdir -p security/tools/scanners
+
+#6.make expolit.sh executable 
+chmod +x exploit.sh
+
+#7.display current user,hostname,and current directory path 
+whoami && hostname && pwd
+
+#8.find files modified in the last 7 days 
+find . -mttime -7
+
+#9.search for the word "password" in all files in current directory
+grep -r "password" .
+
+#10.display system information 
+uname -a 

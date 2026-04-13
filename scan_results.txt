@@ -1,0 +1,5 @@
+scan results for 127.0.0.1
+Port22:CLOSED
+Port80:CLOSED
+Port443:CLOSED
+Port3306:CLOSED
