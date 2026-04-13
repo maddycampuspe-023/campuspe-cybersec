@@ -1,0 +1,10 @@
+port scan report for 127.0.0.1 
+Date : 2026-04-13
+-------
+port 21: CLOSED 
+port 22: CLOSED 
+port 80: CLOSED 
+port 443: CLOSED 
+port 3306: CLOSED 
+-------
+Total Open Ports : 0
