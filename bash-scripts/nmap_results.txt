@@ -1,0 +1,13 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-25 04:08 -0400
+Nmap scan report for 192.168.234.2
+Host is up (0.014s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 00:50:56:F5:1B:AB (VMware)
+Aggressive OS guesses: VMware Player virtual NAT device (98%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (93%), DD-WRT v24-sp2 (Linux 2.4.37) (91%), Microsoft Windows XP SP3 (91%), Actiontec MI424WR-GEN3I WAP (91%), Linux 3.2 (90%), DVTel DVT-9540DW network camera (89%), BlueArc Titan 2100 NAS device (88%), Linux 4.4 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 4.30 seconds

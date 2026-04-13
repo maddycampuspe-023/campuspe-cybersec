@@ -1,0 +1,4 @@
+#!/bin/bash
+#this is a comment 
+
+echo("Madan kumar is a new hacker")
